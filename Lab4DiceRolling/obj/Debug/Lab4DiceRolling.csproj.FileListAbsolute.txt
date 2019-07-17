@@ -1,0 +1,7 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab4DiceRolling\Lab4DiceRolling\bin\Debug\Lab4DiceRolling.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab4DiceRolling\Lab4DiceRolling\bin\Debug\Lab4DiceRolling.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab4DiceRolling\Lab4DiceRolling\bin\Debug\Lab4DiceRolling.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab4DiceRolling\Lab4DiceRolling\obj\Debug\Lab4DiceRolling.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab4DiceRolling\Lab4DiceRolling\obj\Debug\Lab4DiceRolling.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab4DiceRolling\Lab4DiceRolling\obj\Debug\Lab4DiceRolling.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Week 1\Lab4DiceRolling\Lab4DiceRolling\obj\Debug\Lab4DiceRolling.pdb
